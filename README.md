@@ -14,7 +14,7 @@
  
  Extension install link: https://chrome.google.com/extensions/detail/mllceaiaedaingchlgolnfiibippgkmj/
 
- Contributers:
+ Contributors:
   Akshay Anand (https://github.com/xaksis)
   Peter Ferenczy (https://github.com/ggPeti)
   James Vaughan (https://github.com/jamesbvaughan)
