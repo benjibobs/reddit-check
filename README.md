@@ -16,3 +16,7 @@
 
  Contributers:
   Akshay Anand (https://github.com/xaksis)
+  Peter Ferenczy (https://github.com/ggPeti)
+  James Vaughan (https://github.com/jamesbvaughan)
+  benjibobs (https://github.com/benjibobs)
+	
