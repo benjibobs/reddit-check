@@ -13,6 +13,8 @@
  Contact: bakshi.hrishikesh@gmail.com
  
  Extension install link: https://chrome.google.com/extensions/detail/mllceaiaedaingchlgolnfiibippgkmj/
+ 
+ Manual installation instructions: https://developer.chrome.com/extensions/getstarted#unpacked
 
  Contributors:
   Akshay Anand (https://github.com/xaksis)
